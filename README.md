@@ -1,3 +1,4 @@
-Keep it simple, stupid
+# Keep it simple, stupid
 ![KISS](./Kiss-principle.jpg)
+
 

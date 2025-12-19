@@ -1,2 +1,3 @@
 Keep it simple, stupid
-[!KISS]()
+![KISS](./Kiss-principle.jpg)
+

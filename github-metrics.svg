@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 47 repositories
+                            Contributed to 48 repositories
                         </div>
                     </section>
                 </div>
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            29 Issues opened
+                            30 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -382,7 +382,7 @@
                         <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAAAAIDBAYHBQgB/8QAMBAAAQMDAwIEBAYDAAAAAAAAAQACAwQFEQYHIRIxFEFRYQgVcYETFyIjMkJScqH/xAAaAQACAwEBAAAAAAAAAAAAAAAABAIDBgEF/8QAKBEAAgIBAwIEBwAAAAAAAAAAAQIAAwQREjEhYQVRkaETIzJBQoHw/9oADAMBAAIRAxEAPwD1ShCEQiOMk54XyR7Y2Oc4hrQMklVbTF2fPqC6WyZ2XQN/E+xKkbi1LqTRd0ljd0vEXB+6jvG0t5RkYrfGWk8sR7zr2usZcKczM5AcW5+iluAxk9gqZtFW/MNGQT5yetwJ913NT1fhraYY3Yqag9EX+yFbVd0LscpkNSPsSJ2h2QmqQOFLCJP5hjer64TqlFj0ghCEQmKMubbVvhJThzgyrYxjslXrdd4ZoO6dRHMZwsj3rqxaNxoq6IdMkccbgfUq67y3J35cUUrXZ8TG0n3y0FJhulgmotx/mYdw/IL7aSbsFL16CjZ/YSuOFF3Jvr26305aaZw62z9cnsCFE+HWqEun5ogeW84+6zi9XsVm9tNUSyYbHKGO57AcLm/SldO0sbGV/FcgtwNx9RPUsfMbM98BKTVM9ssEb2HILQQne6dmTMEIQiE81b7WuV+4NN4wkW6qDGNf6Hz5Wnbi6Yiu+2kdPFL0eFp2vicT34Cb33sPzXR8lWziWh/dBHdc67V01w2KqalkxEkVP09QPpgJbaFLd57wue6rGKn6Tt/v1FfD1Yn23TElXK/Mkr3Rlv0PdZdqXSME+9JtVue8wVDmve8OyWknJ5V/+G6qqjpaqE0jnxsy5occnKY2PsVRV6mvl+uDXuYZ3shc/kghyiFDIqiMva1GVkXWN1A6dyePSbZRQCmo4IAciKNrM+uBhPoQm5mOYIQhEJHqYI6inkhnaHxvGHNIyCFRb7pZtu20vdqgcXMlD5GgeWTnCv7v+eaRURMmgfFIMteMYUSuol1NzVMCOAQfSZbsVbJINvJWs/RPJK+ME+WCtFsVrhtFAKaAAAuL3Y/yPdRtKWb5Ha30ueoGZ8gx7ldkd+Co1ptUDylubkm652HDHWLQhCsik//Z" alt="" />
                             <div class="about">
-                                <div class="name">The Witcher 3: Wild Hunt</div>
+                                <div class="name">The Witcher 3: Wild Hunt - Complete Edition</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -479,7 +479,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Aug 2026
+                                        Last played on 25 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 01:43:17  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 01:48:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
